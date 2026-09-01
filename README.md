@@ -29,12 +29,6 @@ A Windows 7 SP1 workstation exhibited signs of ransomware infection. Given a raw
 5. **Network analysis** — used `windows.netscan` to uncover an active lateral-movement pattern across the local subnet
 6. **Incident response planning** — produced containment, eradication, recovery, and post-incident recommendations aligned with NIST IR guidance
 
-Full command list and rationale: [`docs/volatility-cheatsheet.md`](docs/volatility-cheatsheet.md)
-
-## Report
-
-The full incident response report (methodology, evidence, screenshots, IOC summary, and response plan) is available in [`report/`](report/).
-
 ## Tools Used
 
 - [Volatility 3](https://github.com/volatilityfoundation/volatility3) — memory forensics framework
