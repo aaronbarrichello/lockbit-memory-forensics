@@ -1,7 +1,5 @@
 # LockBit Ransomware — Memory Forensics & Incident Response
 
-> Case study: full memory forensics investigation of a Windows 7 workstation compromised by LockBit ransomware, using Volatility 3. Completed as part of a SOC Analyst technical assessment.
-
 ## Overview
 
 A Windows 7 SP1 workstation exhibited signs of ransomware infection. Given a raw VMware memory snapshot (`.vmem`), this investigation reconstructs the full attack timeline — from initial execution to lateral movement — using memory forensics alone (no disk image was provided).
