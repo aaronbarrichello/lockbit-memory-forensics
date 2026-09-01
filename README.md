@@ -44,7 +44,3 @@ The full incident response report (methodology, evidence, screenshots, IOC summa
 ## Disclosure
 
 This was completed as a take-home technical assessment for a SOC Analyst role. The memory sample was provided by the assessing organization for evaluation purposes; no proprietary or client data is included. Shared here with permission, for portfolio purposes only.
-
----
-
-*Aaron Barrichello Pattinama*
