@@ -34,5 +34,4 @@ A Windows 7 SP1 workstation exhibited signs of ransomware infection. Given a raw
 - PowerShell — hashing and log processing
 
 ## Disclosure
-
 This was completed as a take-home technical assessment for a SOC Analyst role. The memory sample was provided by the assessing organization for evaluation purposes; no proprietary or client data is included. Shared here with permission, for portfolio purposes only.
